@@ -16,5 +16,6 @@ const CONFIG = {
     mess: '    Dương biết mà 🥰. Yêu ai đó nhiều nhiều 😘😘',
     messDesc: 'Anh hứa , sau này có tiền anh sẽ nuôi em thành HEO.',
     btnAccept: 'Okiiiii lun 🥰',
-    messLink: 'https://github.com/duongbui23407/to-tinh-crush.git' //link mess của các bạn.
+    messLink: 'https://m.me/trduongdz209' 
 }
+
